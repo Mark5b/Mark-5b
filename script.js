@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(html.index).ready(function() {
     $('img').mouseenter(function() {
        $(this).animate({
            width: '+=820px'
